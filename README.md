@@ -1,2 +1,4 @@
 # Hurricane-Maria-Impact-on-Puerto-Rico
-Analysis on Hurricane Maria's impact on Puerto Rico by deaths
+
+
+https://www.linkedin.com/in/mychael-solis-wheeler-829ab2b2/
